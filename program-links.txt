@@ -1,0 +1,5 @@
+LÅS - Rest API - Swagger URL:
+https://xn--lsrest-iua.azurewebsites.net/swagger/index.html
+
+LÅS - Website URL:
+https://xn--ls-3rd-semester-project-k8b.azurewebsites.net/
